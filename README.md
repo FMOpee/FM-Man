@@ -6,10 +6,11 @@
 Here are some ideas to get you started:
 -->
 #  I’m currently working on ...
-- Creating a dynamic blog website for myself
+- Researching on an Extractive Bangla Text Summarization Tool
+- Creating an Web Extension that would use that tool
 
 # 🌱 I’m currently learning ...
-- Node and React
+- NestJs, NextJs, NLP
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,6 +18,6 @@ Here are some ideas to get you started:
 # 📫 How to reach me: 
 - fm.op@hotmail.com
 - bsse1102@iit.du.ac.bd
-<!-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: He/Him
+
+
